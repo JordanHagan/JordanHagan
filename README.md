@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JordanHagan
 - 👀 I’m interested in ... plants and data science
-- 🌱 I’m currently learning ... how to better manage DS projects
-- 💞️ I’m looking to collaborate on ... any cool or fun projects that need DS leadership
+- 🌱 I’m currently learning ... how to optimize implementions of AI
+- 💞️ I’m looking to collaborate on ... any cool or fun projects
 - 📫 How to reach me ... Jordan.Hagan@gmail.com
 
 <!---
